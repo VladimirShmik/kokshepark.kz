@@ -1,0 +1,163 @@
+
+
+
+/* Start:/bitrix/templates/forest/components/bitrix/menu/top/style.css*/
+/* Left menu*/
+ul.left-menu
+{
+	list-style:none;
+	margin:0; padding:0;
+	margin-bottom:8px;
+	position: relative; /*IE bug*/
+}
+
+ul.left-menu li
+{
+	padding: 10px 16px;
+	background:#F5F5F5;
+}
+
+ul.left-menu li a
+{
+	font-size:100%;
+	color:#BC262C;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+ul.left-menu li a:visited
+{
+	color:#BC262C;
+}
+
+ul.left-menu li a:hover
+{
+	color:#BC262C;
+}
+
+
+ul.left-menu li a.selected:link,
+ul.left-menu li a.selected:visited,
+ul.left-menu li a.selected:active,
+ul.left-menu li a.selected:hover
+{
+	color:#FC8D3D;
+}
+
+
+
+/* End */
+
+
+
+/* Start:/bitrix/templates/forest/components/bitrix/news.list/slider/style.css*/
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+/* End */
+
+
+
+/* Start:/bitrix/components/bitrix/breadcrumb/templates/.default/style.css*/
+ul.breadcrumb-navigation
+{
+	padding:0; margin:0;
+	padding-top:4px;
+	list-style:none;
+}
+
+ul.breadcrumb-navigation li
+{
+	display:inline;
+}
+
+ul.breadcrumb-navigation a
+{
+
+}
+
+ul.breadcrumb-navigation span
+{
+
+}
+/* End */
+
+
+
+/* Start:/bitrix/templates/forest/components/bitrix/menu/t_left/style.css*/
+/* Left menu*/
+ul.left-menu
+{
+	list-style:none;
+	margin:0; padding:0;
+	margin-bottom:8px;
+	position: relative; /*IE bug*/
+}
+
+ul.left-menu li
+{
+	padding: 10px 16px;
+	background:#F5F5F5;
+}
+
+ul.left-menu li a
+{
+	font-size:100%;
+	color:#BC262C;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+ul.left-menu li a:visited
+{
+	color:#BC262C;
+}
+
+ul.left-menu li a:hover
+{
+	color:#BC262C;
+}
+
+
+ul.left-menu li a.selected:link,
+ul.left-menu li a.selected:visited,
+ul.left-menu li a.selected:active,
+ul.left-menu li a.selected:hover
+{
+	color:#FC8D3D;
+}
+
+
+
+/* End */
+
+
+
+/* Start:/bitrix/templates/.default/components/bitrix/news.list/t_banners_rightside/style.css*/
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+/* End */
+/* /bitrix/templates/forest/components/bitrix/menu/top/style.css */
+/* /bitrix/templates/forest/components/bitrix/news.list/slider/style.css */
+/* /bitrix/components/bitrix/breadcrumb/templates/.default/style.css */
+/* /bitrix/templates/forest/components/bitrix/menu/t_left/style.css */
+/* /bitrix/templates/.default/components/bitrix/news.list/t_banners_rightside/style.css */
+
+.social {
+	position:absolute;
+	right:0;
+	top:95px;
+}
